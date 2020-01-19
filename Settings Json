@@ -1,0 +1,36 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 18,
+    "editor.fontLigatures": true,
+    "editor.rulers": [80, 120] ,
+
+    "eslint.autoFixOnSave":true,   
+
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "breadcrumbs.enabled": true,
+    "workbench.iconTheme": "material-icon-theme",
+
+    "editor.renderLineHighlight": "gutter",
+    "editor.tabSize": 2,
+    "terminal.integrated.fontSize": 14,
+    
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+    
+    },
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "editor.parameterHints.enabled": false,
+    "javascript.suggest.autoImports": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 1,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "explorer.confirmDragAndDrop": false,
+    "diffEditor.renderSideBySide": false
+}
+
